@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Chicken Kebab",
+    "description": "Grilled chicken skewers marinated in a blend of herbs and spices, served with rice and salad.",
+    "price": 45000,
+    "imgUrl": "https://i.ibb.co/bv9w07F/Chicken-Kebab-Wrap-thumb.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Beef Kebab",
+    "description": "Tender beef cubes seasoned with a mix of spices and grilled to perfection, served with pita bread and hummus.",
+    "price": 45000,
+    "imgUrl": "https://i.ibb.co/k98frLV/lamb-and-beef-kebab-1.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Falafel Wrap",
+    "description": "A vegetarian option featuring crispy falafel balls, fresh salad, and a tangy yogurt sauce wrapped in a warm pita bread.",
+    "price": 45000,
+    "imgUrl": "https://i.ibb.co/txZVFMm/w900h600zc-Cq85-vegan-falafel-wrap.jpg",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Lamb Kofta Kebab",
+    "description": "Minced lamb shaped into balls and grilled to a juicy perfection, served with a side of roasted vegetables and mint yogurt sauce.",
+    "price": 55000,
+    "imgUrl": "https://i.ibb.co/s39Drtt/Spicy-minced-Lamb-Kofta-Kebab-Recipe-Giaourtlou-7-scaled.jpg",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Mixed Grill",
+    "description": "A combination of chicken, beef, and lamb kebabs served with rice and a refreshing cucumber salad.",
+    "price": 75000,
+    "imgUrl": "https://i.ibb.co/ckkD3V3/liwan-alsham-mixed-grilled.jpg",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Shawarma Wrap",
+    "description": "A delicious Middle Eastern wrap filled with chicken, lettuce, tomato, and cucumber, and served with tahini sauce.",
+    "price": 45000,
+    "imgUrl": "https://www.lemonblossoms.com/wp-content/uploads/2020/06/Chicken-Shawarma-Recipe-S5.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Beef Kofta",
+    "description": "Grilled ground beef seasoned with parsley, onion, and spices, and served with pita bread and hummus.",
+    "price": 60000,
+    "imgUrl": "https://marleyspoon.com/media/recipes/70328/main_photos/large/beef-62a374f6f5c81b366ed277b8e24109e4.jpeg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Vegetarian Moussaka",
+    "description": "A hearty Greek dish made with layers of eggplant, potatoes, and a spiced tomato sauce, topped with a creamy bechamel sauce.",
+    "price": 85000,
+    "imgUrl": "https://www.easycheesyvegetarian.com/wp-content/uploads/2019/11/vegetarian-moussaka-featured-1.jpg",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Lamb Chops",
+    "description": "Grilled lamb chops seasoned with garlic and herbs, and served with a side of roasted potatoes and green beans.",
+    "price": 120000,
+    "imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0b/07/b7/7b/mixed-grill-lamb-chop.jpg",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Falafel Platter",
+    "description": "Crispy falafel patties served with a side of hummus, tabbouleh, and pita bread.",
+    "price": 55000,
+    "imgUrl": "https://www.keepingthepeas.com/wp-content/uploads/2021/03/falafel-plate-2-1024x740.jpg",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Chicken Shawarma",
+    "description": "Tender chicken cooked in spices, served with pita bread and a creamy garlic sauce.",
+    "price": 50000,
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=0.8893333333333334xw:1xh;center,top&resize=1200:*",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Lamb Curry",
+    "description": "Tender lamb cooked in a fragrant blend of spices and served with basmati rice.",
+    "price": 80000,
+    "imgUrl": "https://crushmag-online.com/wp-content/uploads/2021/06/LambKebabs_CapeHerb_June2021_1200x628_Social.jpg",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Falafel Wrap",
+    "description": "A classic Middle Eastern sandwich with crispy falafel balls, fresh veggies, and a tangy tahini sauce.",
+    "price": 35000,
+    "imgUrl": "https://heartfultable.com/wp-content/uploads/2019/08/Vegan-Falafel-Wrap-1.jpg",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Hummus Plate",
+    "description": "Creamy hummus served with warm pita bread, olives, and cucumber slices.",
+    "price": 25000,
+    "imgUrl": "https://goodheartcatering.com/web/image/product.template/19/image",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Tabbouleh Salad",
+    "description": "A refreshing salad made with parsley, tomatoes, onions, and a zesty lemon dressing.",
+    "price": 30000,
+    "imgUrl": "https://familystylefood.com/wp-content/uploads/2020/07/tabbouleh-beauty.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Chicken Kebab Special",
+    "description": "Juicy pieces of grilled chicken seasoned with secret herbs and spices, served with fluffy naan bread and a side of tangy yogurt sauce.",
+    "price": 65000,
+    "imgUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/22/2/FNM_090114-Hoisin-Chicken-and-Bok-Choy-Kebabs-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1406154199177.jpeg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "name": "Beef Kebab Platter",
+    "description": "Savory beef skewers marinated in a spicy chili sauce, served with a side of fluffy basmati rice and crispy onion rings.",
+    "price": 85000,
+    "imgUrl": "https://www.sainsburysmagazine.co.uk/uploads/media/1800x1800/07/11517-Chicken-Kebab-Platter.jpg?v=1-0",
+    "authorId": 1,
+    "categoryId": 2
+  },
+  {
+    "name": "Vegetarian Kebab Feast",
+    "description": "An array of colorful grilled vegetables including juicy bell peppers, mushrooms, and zucchini, served on a bed of fluffy quinoa with a drizzle of balsamic glaze.",
+    "price": 55000,
+    "imgUrl": "https://www.veganfoodandliving.com/wp-content/uploads/2019/06/Vegetarian-skewers-768x642.jpg",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "name": "Mixed Grill Kebab",
+    "description": "A combination of chicken, beef, and lamb kebabs served with rice and a refreshing cucumber salad.",
+    "price": 75000,
+    "imgUrl": "https://i.redd.it/cj3trmicygj71.jpg",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "Mediterranean Kebab Wrap",
+    "description": "Tender grilled chicken wrapped in warm pita bread with a generous helping of fresh tzatziki sauce, tomatoes, and cucumbers.",
+    "price": 45000,
+    "imgUrl": "https://rs-menus-api.roocdn.com/images/68ae1077-8ab5-4a63-a410-871f56f0bf90/image.jpeg",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "name": "Simeon's Special Recipe Kebab",
+    "description": "Taste of Heaven on earth that you can buy with a good price. Just BUY it!",
+    "price": 69420,
+    "imgUrl": "https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=681&h=383&crop=1",
+    "authorId": 1,
+    "categoryId": 5
+  }
+]

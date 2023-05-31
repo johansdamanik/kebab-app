@@ -1,0 +1,9 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@mail.com",
+    "password": "12345",
+    "phoneNumber": "081234567890",
+    "address": "Jl. Sudirman No. 123, Jakarta"
+  }
+]
